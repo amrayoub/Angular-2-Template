@@ -1,5 +1,4 @@
 # Angular-2-Tutorials
-Docs pertaining to the tutorial series on Youtube.
 
 Using the Template
 - Clone to desktop.
